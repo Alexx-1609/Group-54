@@ -3,4 +3,4 @@ Minor &amp; Major Project
 
 
 ## 👨‍💻 Author
-** Utkarsh Raj (Alexx) **
+**Utkarsh Raj (Alexx)**
