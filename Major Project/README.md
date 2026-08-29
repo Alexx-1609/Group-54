@@ -1,4 +1,4 @@
-## FPGA-Assisted Portable Offline Speech Translation Device using Raspberry Pi and PYNQ Board
+# FPGA-Assisted Portable Offline Speech Translation Device using Raspberry Pi and PYNQ Board
 
-# Author
+### Author
 Alexx
